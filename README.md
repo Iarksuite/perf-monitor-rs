@@ -1,2 +1,1 @@
-# perf-monitor-rs
-A cross-platform library to retrieve performance statistics data.
+This is Larksuite's Hackerone bug bounty test
